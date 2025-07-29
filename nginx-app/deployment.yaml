@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: shumetworku/nginx-app:latest
+          image: shumet/nginx-app:latest
           ports:
             - containerPort: 80
